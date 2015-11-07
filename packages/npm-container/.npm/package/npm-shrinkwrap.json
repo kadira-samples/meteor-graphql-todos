@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "graphql": {
+      "version": "0.4.12",
+      "dependencies": {
+        "babel-runtime": {
+          "version": "5.8.29",
+          "dependencies": {
+            "core-js": {
+              "version": "1.2.5"
+            }
+          }
+        }
+      }
+    }
+  }
+}
